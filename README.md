@@ -1,4 +1,7 @@
 # music-sessions
+
+https://vjusiega.github.io/music-sessions
+
 Music Sessions is an interactive visualization of my music listening habits on Spotify broken down into jam sessions. 
 
 A session consists of a collection of tracks listened to consecutively without a significant break in time. 
