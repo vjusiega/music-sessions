@@ -18,10 +18,3 @@ This project was created using [Processing](https://processing.org/) as a final 
 ## the data 
 
 Starting in April 2020 I used Last.fm to keep record of all the songs I listen to and when I listened to them. This data is retrieved from the Last.fm API and supplemented with data from the Spotify API, which gives additional information about tracks including their tempo and their "energy." This data is then combined into a single CSV and used in the Processing visualization. 
-
-I wrote this Google Colab Notebook to process the data: [link to come]
-
-## ineractive visualization 
-
-*photos to come*
-
